@@ -1,0 +1,3 @@
+package model;
+
+use Mouse;
